@@ -1,7 +1,6 @@
 #include "apue.h"
 #include <dirent.h>
 #include "error.c"
-//#include "errorlog.c"
 
 int main(int argc,char *argv[])
 {
